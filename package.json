@@ -29,14 +29,14 @@
   },
   "homepage": "https://github.com/sersoft-gmbh/dotnet-nuget-login-action#readme",
   "dependencies": {
-    "@actions/core": "^3.0.0",
+    "@actions/core": "^3.0.1",
     "@actions/exec": "^3.0.0",
     "@actions/tool-cache": "^4.0.0"
   },
   "devDependencies": {
     "@tsconfig/node24": "^24.0.4",
-    "@types/node": "^24.10.11",
-    "@vercel/ncc": "^0.38.4",
-    "typescript": "^5.9.3"
+    "@types/node": "^24.13.3",
+    "@vercel/ncc": "^0.44.1",
+    "typescript": "^7.0.2"
   }
 }
